@@ -188,7 +188,7 @@ body {
 
 .work-experience {
   height: 180px;
-  border: 1px solid #fff;
+  border: 1px solid #71717a;
   margin: 25px 0;
   border-radius: 5px;
   padding: 25px;
@@ -284,11 +284,12 @@ body {
 .project-title {
   color: #fff;
   text-align: center;
-  padding: 20px 0;
+  padding: 35px 0;
 }
 
 .project-card {
   width: 80%;
+  padding-bottom: 50px;
   margin: 20px auto;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
